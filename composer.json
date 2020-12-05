@@ -1,0 +1,15 @@
+{
+    "type": "library",
+    "description": "",
+    "keywords": [],
+    "license": "",
+    "require": {
+        "php": ">=7.3.19",
+        "symfony/console": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+/vendor/
+composer.lock
+# IDEs and Code Editors project files
+*.sublime-*
+/.idea/
+/nbproject/
+*.code-workspace
+/.vscode/
