@@ -2,8 +2,11 @@
 
 declare(strict_types=1);
 
-use Exceptions\SourcesDoesNotExists;
-use Parser\UniversalProxiesParser;
+namespace Texnicii;
+
+use Generator;
+use Texnicii\Exceptions\SourcesDoesNotExists;
+use Texnicii\Parser\UniversalProxiesParser;
 
 class ProxyScraper
 {
