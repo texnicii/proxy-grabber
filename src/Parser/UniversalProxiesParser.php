@@ -1,8 +1,8 @@
 <?php
 
-namespace Parser;
+namespace Texnicii\Parser;
 
-use ParserInterface;
+use Texnicii\ParserInterface;
 
 class UniversalProxiesParser implements ParserInterface
 {
