@@ -1,11 +1,11 @@
 {
+    "name": "texnicii/proxy-grabber",
+    "description": "Proxy grabber free proxies from open sources on the web",
     "type": "library",
-    "description": "",
-    "keywords": [],
+    "keywords": ["proxy grabber", "free proxy", "proxy list", "http proxy", "socks4/5 proxy"],
     "license": "",
     "require": {
-        "php": ">=7.3.19",
-        "symfony/console": "^5.1"
+        "php": ">=7.3.19"
     },
     "autoload": {
         "psr-4": {
