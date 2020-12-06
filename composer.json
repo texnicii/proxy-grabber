@@ -2,8 +2,7 @@
     "name": "texnicii/proxy-grabber",
     "description": "Proxy grabber free proxies from open sources on the web",
     "type": "library",
-    "keywords": ["proxy grabber", "free proxy", "proxy list", "http proxy", "socks4/5 proxy"],
-    "license": "",
+    "keywords": ["proxy grabber", "free proxy", "proxy list", "http proxy", "socks4 proxy", "socks5 proxy"],
     "require": {
         "php": ">=7.3.19"
     },
